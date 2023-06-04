@@ -24,8 +24,8 @@
 
 ## What you need to know 
 * javascript concepts (basic):
-- variables 
-- arrays 
-- objects 
-- functions 
-- conditions 
+ - variables 
+ - arrays 
+ - objects 
+ - functions 
+ - conditions 
