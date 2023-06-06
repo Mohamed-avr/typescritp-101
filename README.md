@@ -1,5 +1,5 @@
 # typescritp-101
-##Intro 01
+## Introduction 01
 ### What is typesciprt ? 
 1. typescript is a storngly typed programming language that builds on javascript 
 2. typescript developed by microsoft 
