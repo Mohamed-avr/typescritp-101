@@ -1,6 +1,9 @@
 # typescritp-101
 typescript 101 is my course that i'm learning so i deciced to share any exeperiene i face 
 
+## documentation 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 ## Introduction 01
 ### What is typesciprt ? 
 1. typescript is a storngly typed programming language that builds on javascript 
@@ -41,6 +44,7 @@ node -v
 
 ex:v19.8.1
 ```
+if you don't have the node.js in your computer go to install 
 
 
 
