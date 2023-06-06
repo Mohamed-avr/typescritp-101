@@ -72,9 +72,10 @@ now in the same editor open the terminal and write this commend :
 ``` 
 tsc index.ts
 ```
-now look to the folder you will see a new js file created has the same name with Ts file .
---
-to combile a TS  code to JS code this means to create another JS file but this happe
+now look to the folder you will see a new js file created has the same name with Ts file like this below :
+![● index ts - typescript-101 - Visual Studio Code 6_6_2023 2_51_30 PM](https://github.com/Mohamed-avr/typescritp-101/assets/58856307/ff8efe56-1209-42eb-9543-149e0b613bc9)
+
+to combile a TS  code to JS code this means to create another JS file 
 
 
 
