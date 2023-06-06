@@ -1,9 +1,8 @@
 # typescritp-101
 typescript 101 is my course that i'm learning so i deciced to share any exeperiene i face 
 
-## Documentation 
-
-
+## doc 
+[]()
 
 ## Introduction 01
 ### What is typesciprt ? 
@@ -45,7 +44,7 @@ node -v
 
 ex:v19.8.1
 ```
-if you don't have the node.js in your computer go to install 
+if you don't have the node.js in your computer go to install it from this [website](https://nodejs.org/en)
 
 
 
