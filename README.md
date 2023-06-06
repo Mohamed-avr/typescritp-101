@@ -32,4 +32,15 @@ typescript 101 is my course that i'm learning so i deciced to share any exeperie
   - functions 
   - conditions 
 
-## install typescript 02
+## install typescript & compile TS with js 02
+what we will learn how to install typescript and how to combile TS with JS 
+so first you need to check if you have Node.js by this code belew using terminal or Bash or powershell.
+
+```
+node -v 
+
+ex:v19.8.1
+```
+
+
+
