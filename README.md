@@ -2,7 +2,7 @@
 typescript 101 is my course that i'm learning so i deciced to share any exeperiene i face 
 
 ## documentation 
-[install typescript](https://github.com/Mohamed-avr/typescritp-101/edit/master/README.md#introduction-01)
+[install typescript]
 
 ## Introduction 01
 ### What is typesciprt ? 
