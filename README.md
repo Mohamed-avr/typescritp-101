@@ -1,8 +1,6 @@
 # typescritp-101
 typescript 101 is my course that i'm learning so i deciced to share any exeperiene i face 
 
-## doc 
-[]()
 
 ## Introduction 01
 ### What is typesciprt ? 
@@ -45,6 +43,38 @@ node -v
 ex:v19.8.1
 ```
 if you don't have the node.js in your computer go to install it from this [website](https://nodejs.org/en)
+then install TS in your computer following this code : 
+```
+npm i -g typescript
+```
+after this check if TS installed by cmd or bash 
+```
+tsc -v 
+ex: Version 
+```
+now create a folder and open it in any editor to make the procces easier after this we will go to combile TS file with Js file 
+first create a typescript file in isnide that folder like this one here : 
+
+![index ts - typescript-101 - Visual Studio Code 6_6_2023 1_31_11 PM](https://github.com/Mohamed-avr/typescritp-101/assets/58856307/fbb60349-2e55-4766-8bdb-7a0893c1aaf1)
+
+
+i created the file of TS and i name it index.ts you can give it the name you want also you see the folder name is typescript-101
+
+now if let's try to code and  then we will combile it to js code
+this below is typescript code we will combile it now 
+
+``` 
+const generateIDs= 1245;
+console.log(Math.random() * generateIDs );
+``` 
+now in the same editor open the terminal and write this commend : 
+
+``` 
+tsc index.ts
+```
+now look to the folder you will see a new js file created has the same name with Ts file .
+--
+to combile a TS  code to JS code this means to create another JS file but this happe
 
 
 
