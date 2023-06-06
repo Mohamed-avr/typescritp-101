@@ -1,8 +1,9 @@
 # typescritp-101
 typescript 101 is my course that i'm learning so i deciced to share any exeperiene i face 
 
-## documentation 
-[install typescript]
+## Documentation 
+
+
 
 ## Introduction 01
 ### What is typesciprt ? 
