@@ -2,7 +2,8 @@
 typescript 101 is the course that I'm learning so I decided to share any experiences I face 
 
 ## Content 
-[intro](#introdaction)
+ - [introdaction](#introdaction)
+- [install typescript & compile TS with js 02](#install)
 
 ## <a id="introdaction"></a>introdaction 
   ### What is typesciprt ? 
@@ -35,9 +36,9 @@ typescript 101 is the course that I'm learning so I decided to share any experie
   - functions 
   - conditions 
 
-## install typescript & compile TS with js 02
-what we will learn how to install typescript and how to combile TS with JS 
-so first you need to check if you have Node.js by this code belew using terminal or Bash or powershell.
+## <a id="install"></a> install typescript & compile TS with js 
+what we will learn is how to install typescript and how to compile TS with JS 
+so first you need to check if you have Node.js by this code below using terminal, Bash, or Powershell.
 
 ```
 node -v 
