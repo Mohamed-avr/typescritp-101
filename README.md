@@ -3,7 +3,8 @@ typescript 101 is the course that I'm learning so I decided to share any experie
 
 ## Content 
  - [introdaction](#introdaction)
-- [install typescript & compile TS with js ](#install)
+ - [install typescript & compile TS with js ](#install)
+ - [create a configuration and watch files ](#empty)
 
 ## <a id="introdaction"></a>introdaction 
   ### What is typesciprt ? 
