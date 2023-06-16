@@ -1,11 +1,8 @@
 # typescritp-101
-typescript 101 is my course that i'm learning so i deciced to share any exeperiene i face 
-
-## content 
-### <a id="ntroduction"></a> intro 
+typescript 101 is the course that I'm learning so I deciced to share any experiences i face 
 
 
-## Introduction (#Introduction)
+#introdaction
 ### What is typesciprt ? 
 1. typescript is a storngly typed programming language that builds on javascript 
 2. typescript developed by microsoft 
