@@ -96,7 +96,36 @@ to compile a TS  code into JS code means creating another JS file
 this is if you have only one file called "index.ts" example  
 
 
- -  ### :shipit:  Many Typescript files ? 
+ -  ### :shipit:  Many Typescript files ?
+  we will create a dist folder :open_file_folder: ( distribution source ) based on our Typescript files and every change in each file will appear in JS files that gonna create in a dist folder :open_file_folder: 
+   * First create TS files
+   * Then move them to a new folder "src" folder , like this example :
+     
+   ![home ts - typescript-101 - Visual Studio Code 7_1_2023 6_00_25 PM (2)](https://github.com/Mohamed-avr/typescritp-101/assets/58856307/f3bc176e-f94f-48ae-aa99-8c64136324f5) 
+   
+   * Now we will initial typescript language using this command :
+    ``` 
+    Tsc --init
+    ```
+   now we have "tsconfig.json" .
+  * After that we will config "src" folder :open_file_folder: that we create to "dist" folder  :open_file_folder:
+    this is by jumping to "tsconfig.json" and do these changes :
+     
+    ``` 
+  "rootDir" : "./src", 
+  "target" : "es2016", 
+  "outDir" : "./dist",
+    ```
+    note :exclamation: >> You can do many things you can hide comments you can make it more strict with this JSON file ... but now this is enough  
+
+
+  * now type this command to make the changes :
+    ```
+    tsc
+    ```
+    but this will create only the dist folders with JS files and will not watch the TS files, let's make it happen!
+    
+
 
 
 
