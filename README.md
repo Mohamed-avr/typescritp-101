@@ -6,7 +6,7 @@ typescript 101 is the course that I'm learning so I decided to share any experie
  - [install typescript & compile TS with js ](#install)
  - [create a configuration and watch files ](#createConfig)
 
- ## <a id="introdaction"></a>introdaction 
+ ## :arrow_forward: <a id="introdaction"></a>introdaction 
   ### What is typesciprt ? 
   1. typescript is a strongly typed programming language that builds on javascript 
   2. typescript developed by Microsoft 
@@ -37,7 +37,7 @@ typescript 101 is the course that I'm learning so I decided to share any experie
   - functions 
   - conditions 
 
-## <a id="install"></a> install typescript & compile TS with js 
+## :arrow_forward: <a id="install"></a> install typescript & compile TS with js 
 what we will learn is how to install typescript and how to compile TS with JS 
 so first you need to check if you have Node.js by this code below using terminal, Bash, or Powershell.
 
@@ -84,7 +84,7 @@ to compile a TS  code into JS code means creating another JS file
 
 
 
- ## <a id="createConfig"></a> create a configuration and watch files :shipit: 
+  ## :arrow_forward: <a id="createConfig"></a> Create a configuration and watch files :shipit: 
    - ### Only one Typescript file?
   we will not translate TS code into JS code every time we update TS code by typing for  
   that we will configure a file for TS that every change in the TS code file will also appear directly in JS file.  
