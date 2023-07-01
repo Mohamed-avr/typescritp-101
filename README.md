@@ -84,8 +84,8 @@ to compile a TS  code into JS code means creating another JS file
 
 
 
-  ## :arrow_forward: <a id="createConfig"></a> Create a configuration and watch files :shipit: 
-   - ### Only one Typescript file?
+  ## :arrow_forward: <a id="createConfig"></a> Create a configuration and watch files 
+   - ### :shipit:   Only one Typescript file?
   we will not translate TS code into JS code every time we update TS code by typing for  
   that we will configure a file for TS that every change in the TS code file will also appear directly in JS file.  
 
@@ -96,7 +96,7 @@ to compile a TS  code into JS code means creating another JS file
 this is if you have only one file called "index.ts" example  
 
 
- -  ### Many Typescript files ? 
+ -  ### :shipit:  Many Typescript files ? 
 
 
 
