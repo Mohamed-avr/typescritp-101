@@ -1,10 +1,10 @@
-# typescript-101
+# typescript-101 :basecampy:
 typescript 101 is the course that I'm learning so I decided to share any experiences I face 
 
 ## Content 
  - [introdaction](#introdaction)
  - [install typescript & compile TS with js ](#install)
- - [create a configuration and watch files ](#empty)
+ - [create a configuration and watch files ](#createConfig)
 
 ## <a id="introdaction"></a>introdaction 
   ### What is typesciprt ? 
@@ -76,10 +76,31 @@ now in the same editor open the terminal and write this commend :
 ``` 
 tsc index.ts
 ```
-now look to the folder you will see a new js file created has the same name with Ts file like this below :
+now look to the folder you will see a new js file created has the same name as Ts file like this below :
 ![● index ts - typescript-101 - Visual Studio Code 6_6_2023 2_51_30 PM](https://github.com/Mohamed-avr/typescritp-101/assets/58856307/ff8efe56-1209-42eb-9543-149e0b613bc9)
 
-to combile a TS  code to JS code this means to create another JS file 
+
+to compile a TS  code into JS code means creating another JS file 
 
 
+
+## <a id="createConfig"></a> create a configuration and watch files :shipit: 
+  ### Only one Typescript file?
+  we will not translate TS code into JS code every time we update TS code by typing for  
+  that we will configure a file for TS that every change in the TS code file will also appear directly in JS file.  
+
+  ``` 
+  Tsc -w index.ts
+  ```
+
+this is if you have only one file called "index.ts" example  
+
+
+ ### Many Typescript files ? 
+
+
+
+
+  
+  
 
