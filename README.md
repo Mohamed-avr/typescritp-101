@@ -6,7 +6,7 @@ typescript 101 is the course that I'm learning so I decided to share any experie
  - [install typescript & compile TS with js ](#install)
  - [create a configuration and watch files ](#createConfig)
 
-## <a id="introdaction"></a>introdaction 
+ ## <a id="introdaction"></a>introdaction 
   ### What is typesciprt ? 
   1. typescript is a strongly typed programming language that builds on javascript 
   2. typescript developed by Microsoft 
@@ -84,8 +84,8 @@ to compile a TS  code into JS code means creating another JS file
 
 
 
-## <a id="createConfig"></a> create a configuration and watch files :shipit: 
-  ### Only one Typescript file?
+ ## <a id="createConfig"></a> create a configuration and watch files :shipit: 
+   - ### Only one Typescript file?
   we will not translate TS code into JS code every time we update TS code by typing for  
   that we will configure a file for TS that every change in the TS code file will also appear directly in JS file.  
 
@@ -96,7 +96,7 @@ to compile a TS  code into JS code means creating another JS file
 this is if you have only one file called "index.ts" example  
 
 
- ### Many Typescript files ? 
+ -  ### Many Typescript files ? 
 
 
 
