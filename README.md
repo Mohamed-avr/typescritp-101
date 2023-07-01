@@ -107,24 +107,43 @@ this is if you have only one file called "index.ts" example
     ``` 
     Tsc --init
     ```
-   now we have "tsconfig.json" .
+   now we have "tsconfig.json".
   * After that we will config "src" folder :open_file_folder: that we create to "dist" folder  :open_file_folder:
     this is by jumping to "tsconfig.json" and do these changes :
      
-    ``` 
+```
   "rootDir" : "./src", 
   "target" : "es2016", 
   "outDir" : "./dist",
-    ```
-    note :exclamation: >> You can do many things you can hide comments you can make it more strict with this JSON file ... but now this is enough  
+```
+
+   - note :exclamation: >> You can do many things you can hide comments you can make it more strict with this JSON file ... but now this is enough  
 
 
   * now type this command to make the changes :
     ```
     tsc
     ```
-    but this will create only the dist folders with JS files and will not watch the TS files, let's make it happen!
+    but this will create only the dist folder with JS files and will not watch the TS files if we write some codes in TS files will not appear in JS files
+
+https://github.com/Mohamed-avr/typescritp-101/assets/58856307/7f704414-5f59-48b7-8c40-fdb8653454fe
+
+let's make it happen!
+
+
+  * now we are going to make the dist folder inter to watch mode by typing this command :
+    ```
+    tsc -w
+    ```
+  now if you did this go to any typescript file and try ! 
+  
+https://github.com/Mohamed-avr/typescritp-101/assets/58856307/2cc0671b-bc58-45c0-b5bc-41e209c3e47e
+
+
+
     
+    
+
 
 
 
