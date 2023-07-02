@@ -1,7 +1,7 @@
 # Typescript-101 
 typescript 101 is the course that I'm learning so I decided to share any experiences I face 
 
-## :basecampy: Content  
+## Content  
  - [introdaction](#introdaction)
  - [install typescript & compile TS with js ](#install)
  - [create a configuration and watch files ](#createConfig)
