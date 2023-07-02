@@ -1,4 +1,4 @@
-#:basecampy: Typescript-101
+# Typescript-101 ##:basecampy:
 typescript 101 is the course that I'm learning so I decided to share any experiences I face 
 
 ## Content 
