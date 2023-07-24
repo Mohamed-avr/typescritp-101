@@ -2,7 +2,7 @@
 typescript 101 is the course that I'm learning so I decided to share any experiences I face 
 
 ## Content  
- - [introdaction](#introdaction)
+ - [intro](#introdaction)
  - [install typescript & compile TS with js ](#install)
  - [create a configuration and watch files ](#createConfig)
 
