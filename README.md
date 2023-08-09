@@ -5,6 +5,7 @@ typescript 101 is the course that I'm learning so I decided to share any experie
  - [intro](#introdaction)
  - [install typescript & compile TS with js ](#install)
  - [create a configuration and watch files ](#createConfig)
+ - [create a configuration and watch files ](#createConfig)
 
  ## :arrow_forward: <a id="introdaction"></a>introdaction 
   ### What is typesciprt ? 
